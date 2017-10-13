@@ -1,0 +1,32 @@
+.jumbotron {
+    background-image: url(../img/man-hands-reading-boy.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+	text-shadow: black 0.3em 0.3em 0.3em;
+	margin-bottom: 10px;
+	padding: 175px 0 125px;
+}
+
+.articleImage {
+	float: left;
+	height:100px;
+	margin: 0 10px 0;
+}
+
+.panel-title {
+	padding-top: 7.5px;
+}
+
+#home:hover, #savedArticles:hover {
+	cursor: pointer;
+ }
+
+p.title {
+	font-size: 60pt;
+ }
+
+ p.subtitle {
+	 font-size: 36pt;
+ }
